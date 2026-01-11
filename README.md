@@ -37,13 +37,6 @@ I love building modern, fast, and user-friendly web interfaces.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 <p>
@@ -58,9 +51,8 @@ I love building modern, fast, and user-friendly web interfaces.
 ---
 
 ## ✨ Fun Fact
-☕ Code + Music + Creativity = My perfect day 😄
+☕ Code + Music + Creativity + Animes = My perfect day 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet)
 
 <!--
 **SherdorbekAbduqahhorov/SherdorbekAbduqahhorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
