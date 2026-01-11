@@ -46,7 +46,7 @@ I love building modern, fast, and user-friendly web interfaces.
   <a href="https://instagram.com/sherdorbek_770_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <p>number=998903686757</p>
+  <p>And you can contact me to be friend or just asking somthing so my number is +998903686757</p>
 </p>
 
 ---
